@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser notebooks/Clustering_Bank.ipynb
+web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser --template=material --enable_nbextensions=True notebooks/Clustering_Bank.ipynb
