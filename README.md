@@ -21,3 +21,5 @@ The result was that the group with ages between 20 and 68 years take credits wit
 ## If you want reproduce the repository
 
 If you want use the repository you can make a git clone or download the repository
+
+**You can see the notebook [here](https://colab.research.google.com/drive/1zXRVH_UIK5FzU7DE2Z4hzM_2o2lg4xgj?usp=sharing)
