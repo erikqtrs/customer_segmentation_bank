@@ -16,7 +16,7 @@ The result was that the group with ages between 20 and 68 years take credits wit
 - Seaborn
 - Gower distances algorithm
 - Kmodes package for K-Prototype algorithm
-- Voila to generate a web app
+- Prince library for Factorial analysis mixed data (PCA for numerical and categorical )
 
 ## If you want reproduce the repository
 
